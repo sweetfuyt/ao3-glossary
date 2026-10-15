@@ -1,0 +1,145 @@
+// ==========角色 主要人物==========
+Satoru Gojo = 五条悟
+Gojo Satoru = 五条悟
+Suguru Geto = 夏油杰
+Geto Suguru = 夏油杰
+Yuji Itadori = 虎杖悠仁
+Megumi Fushiguro = 伏黑惠
+Nobara Kugisaki = 钉崎野蔷薇
+Yuta Okkotsu = 乙骨忧太
+Maki Zenin = 禅院真希
+Mai Zenin = 禅院真依
+Toge Inumaki = 狗卷棘
+Panda = 胖达
+Shoko Ieiri = 家入硝子
+Kento Nanami = 七海建人
+Toji Fushiguro = 伏黑甚尔
+Tsumiki Fushiguro = 伏黑津美纪
+Aoi Todo = 东堂葵
+Momo Nishimiya = 西宫桃
+Takuma Ino = 猪野琢真
+Utahime Iori = 庵歌姬
+Yuki Tsukumo = 九十九由基
+Mei Mei = 冥冥
+Ui Ui = 忧忧
+
+// =========反派、咒灵、羂索==========
+Ryomen Sukuna = 两面宿傩
+Sukuna = 宿傩
+Kenjaku = 羂索
+Mahito = 真人
+Jogo = 漏瑚
+Hanami = 花御
+Dagon = 陀艮
+Choso = 胀相
+Eso = 坏相
+Kechizu = 血涂
+Uraume = 乌鹭梅
+
+// =========次要角色==========
+Hiromi Higuruma = 日车宽见
+Kinji Hakari = 秤金次
+Kirara Hoshi = 星绮罗罗
+Riko Amanai = 天内理子
+Misato Kuroi = 黑井美里
+Masamichi Yaga = 夜蛾正道
+Gakuganji Yoshinobu = 乐岩寺嘉伸
+Kokichi Muta = 机械丸
+Junpei Yoshino = 吉野顺平
+
+// =========CP同人标签（海外AO3高频tag）==========
+Satosugu = 五夏
+SatoSugu = 五夏
+Gojo/Geto = 五夏
+Geto/Gojo = 夏五
+Goge = 五夏
+Gego = 夏五
+Gojogeto = 五夏
+Getogojo = 夏五
+Itadori/Megumi = 虎伏
+Yuji/Megumi = 虎伏
+Gojo/Yuji = 五悠
+Gojo/Yuta = 五乙
+Geto/Yuta = 杰乙
+Nanami/Gojo = 七五
+Toji/Geto = 甚杰
+Toji/Gojo = 甚五
+Yuta/Maki = 乙真
+
+// =========咒术基础设定==========
+Cursed Energy = 咒力
+Cursed Technique = 术式
+Innate Technique = 生得术式
+Reversed Cursed Technique = 反转术式
+Reverse Cursed Technique = 反转术式
+Black Flash = 黑闪
+Domain Expansion = 领域展开
+Simple Domain = 简易领域
+Domain Amplification = 领域展延
+Binding Vow = 束缚誓约
+Heavenly Restriction = 天与咒缚
+Shikigami = 式神
+Cursed Spirit = 咒灵
+Cursed Tool = 咒具
+Grade 4 = 四级
+Grade 3 = 三级
+Grade 2 = 二级
+Grade 1 = 一级
+Semi‑Grade 1 = 准一级
+Special Grade = 特级
+Special Grade Cursed Object = 特级咒物
+Barrier Technique = 结界术
+Cursed Speech = 咒言
+
+// =========人物专属术式&招式==========
+Limitless = 无下限术式
+Infinity = 无下限
+Six Eyes = 六眼
+Blue = 苍
+Red = 赫
+Purple = 茈
+Ten Shadows Technique = 十种影法术
+Chimera Shadow Garden = 嵌合暗翳庭
+Idle Death Game = 死灭回游
+Idle Death Gamble = 死灭回游
+Projection Sorcery = 术式·投影咒法
+Idle Transfiguration = 无为转变
+Divergent Fist = 迳庭拳
+
+// =========领域展开名称==========
+Unlimited Void = 无量空处
+Malevolent Shrine = 伏魔御厨子
+Coffin of the Iron Mountain = 盖棺铁围山
+Horizon of the Captivating Skandha = 荡蕴平线
+Self‑Embodiment of Perfection = 自闭圆顿裹
+Deadly Sentencing = 诛伏赐死
+Authentic Mutual Love = 真赝相爱
+Womb Profusion = 胎藏遍野
+
+// =========地点、事件专有名词==========
+Jujutsu High = 咒术高专
+Tokyo Jujutsu High = 东京咒术高专
+Kyoto Jujutsu High = 京都咒术高专
+Shibuya Incident = 涩谷事变
+Goodwill Event = 京都姐妹校交流会
+Sukuna's Finger = 宿傩手指
+Cursed Womb: Death Paintings = 咒胎九相图
+Tengen = 天元
+Prison Realm = 狱门疆
+
+// =========AU同人常用标签==========
+Modern AU = 现代AU
+College AU = 大学AU
+No Curse AU = 无咒灵AU
+High School AU = 高中AU
+Canon Divergence = 原作分歧AU
+Soulmate AU = 灵魂伴侣AU
+Omegaverse = ABO AU
+Vampire AU = 吸血鬼AU
+Mob AU = 路人AU
+Time Travel AU = 时间穿越AU
+Post‑Canon = 原作结局后
+Pre‑Canon = 原作之前
+Fix‑It = 修复剧情
+Angst = 虐向
+Fluff = 甜向
