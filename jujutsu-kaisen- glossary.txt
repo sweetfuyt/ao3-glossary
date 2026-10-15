@@ -1,145 +1,638 @@
-// ==========角色 主要人物==========
-Satoru Gojo = 五条悟
+// ==========【人物｜姓、名拆分独立词条｜大小写全部兼容】==========
+//五条家
+Gojo = 五条
+gojo = 五条
+Satoru = 悟
+satoru = 悟
 Gojo Satoru = 五条悟
-Suguru Geto = 夏油杰
+gojo satoru = 五条悟
+Satoru Gojo = 五条悟
+satoru gojo = 五条悟
+
+//夏油家
+Geto = 夏油
+geto = 夏油
+Suguru = 杰
+suguru = 杰
 Geto Suguru = 夏油杰
+geto suguru = 夏油杰
+Suguru Geto = 夏油杰
+suguru geto = 夏油杰
+
+//虎杖
+Itadori = 虎杖
+itadori = 虎杖
+Yuji = 悠仁
+yuji = 悠仁
+Itadori Yuji = 虎杖悠仁
+itadori yuji = 虎杖悠仁
 Yuji Itadori = 虎杖悠仁
+yuji itadori = 虎杖悠仁
+
+//伏黑
+Fushiguro = 伏黑
+fushiguro = 伏黑
+Megumi = 惠
+megumi = 惠
+Tsumiki = 津美纪
+tsumiki = 津美纪
+Toji = 甚尔
+toji = 甚尔
+Fushiguro Megumi = 伏黑惠
+fushiguro megumi = 伏黑惠
 Megumi Fushiguro = 伏黑惠
+megumi fushiguro = 伏黑惠
+Fushiguro Tsumiki = 伏黑津美纪
+fushiguro tsumiki = 伏黑津美纪
+Fushiguro Toji = 伏黑甚尔
+fushiguro toji = 伏黑甚尔
+
+//钉崎
+Kugisaki = 钉崎
+kugisaki = 钉崎
+Nobara = 野蔷薇
+nobara = 野蔷薇
+Kugisaki Nobara = 钉崎野蔷薇
+kugisaki nobara = 钉崎野蔷薇
 Nobara Kugisaki = 钉崎野蔷薇
+nobara kugisaki = 钉崎野蔷薇
+
+//乙骨
+Okkotsu = 乙骨
+okkotsu = 乙骨
+Yuta = 忧太
+yuta = 忧太
+Okkotsu Yuta = 乙骨忧太
+okkotsu yuta = 乙骨忧太
 Yuta Okkotsu = 乙骨忧太
+yuta okkotsu = 乙骨忧太
+
+//禅院
+Zenin = 禅院
+zenin = 禅院
+Maki = 真希
+maki = 真希
+Mai = 真依
+mai = 真依
+Zenin Maki = 禅院真希
+zenin maki = 禅院真希
 Maki Zenin = 禅院真希
+maki zenin = 禅院真希
+Zenin Mai = 禅院真依
+zenin mai = 禅院真依
 Mai Zenin = 禅院真依
+mai zenin = 禅院真依
+
+//狗卷
+Inumaki = 狗卷
+inumaki = 狗卷
+Toge = 棘
+toge = 棘
+Inumaki Toge = 狗卷棘
+inumaki toge = 狗卷棘
 Toge Inumaki = 狗卷棘
-Panda = 胖达
+toge inumaki = 狗卷棘
+
+//家入
+Ieiri = 家入
+ieiri = 家入
+Shoko = 硝子
+shoko = 硝子
+Ieiri Shoko = 家入硝子
+ieiri shoko = 家入硝子
 Shoko Ieiri = 家入硝子
+shoko ieiri = 家入硝子
+
+//七海
+Nanami = 七海
+nanami = 七海
+Kento = 建人
+kento = 建人
+Nanami Kento = 七海建人
+nanami kento = 七海建人
 Kento Nanami = 七海建人
-Toji Fushiguro = 伏黑甚尔
-Tsumiki Fushiguro = 伏黑津美纪
+kento nanami = 七海建人
+
+//东堂
+Todo = 东堂
+todo = 东堂
+Aoi = 葵
+aoi = 葵
+Todo Aoi = 东堂葵
+todo aoi = 东堂葵
 Aoi Todo = 东堂葵
-Momo Nishimiya = 西宫桃
-Takuma Ino = 猪野琢真
+aoi todo = 东堂葵
+
+//庵
+Iori = 庵
+iori = 庵
+Utahime = 歌姬
+utahime = 歌姬
+Iori Utahime = 庵歌姬
+iori utahime = 庵歌姬
 Utahime Iori = 庵歌姬
+utahime iori = 庵歌姬
+
+//九十九
+Tsukumo = 九十九
+tsukumo = 九十九
+Yuki = 由基
+yuki = 由基
+Tsukumo Yuki = 九十九由基
+tsukumo yuki = 九十九由基
 Yuki Tsukumo = 九十九由基
-Mei Mei = 冥冥
-Ui Ui = 忧忧
+yuki tsukumo = 九十九由基
 
-// =========反派、咒灵、羂索==========
-Ryomen Sukuna = 两面宿傩
+//夜蛾
+Yaga = 夜蛾
+yaga = 夜蛾
+Masamichi = 正道
+masamichi = 正道
+Yaga Masamichi = 夜蛾正道
+yaga masamichi = 夜蛾正道
+
+//吉野
+Yoshino = 吉野
+yoshino = 吉野
+Junpei = 顺平
+junpei = 顺平
+Yoshino Junpei = 吉野顺平
+yoshino junpei = 吉野顺平
+
+//天内
+Amanai = 天内
+amanai = 天内
+Riko = 理子
+riko = 理子
+Amanai Riko = 天内理子
+amanai riko = 天内理子
+
+//黑井
+Kuroi = 黑井
+kuroi = 黑井
+Misato = 美里
+misato = 美里
+Kuroi Misato = 黑井美里
+kuroi misato = 黑井美里
+
+//猪野
+Ino = 猪野
+ino = 猪野
+Takuma = 琢真
+takuma = 琢真
+Ino Takuma = 猪野琢真
+ino takuma = 猪野琢真
+
+//秤
+Hakari = 秤
+hakari = 秤
+Kinji = 金次
+kinji = 金次
+Hakari Kinji = 秤金次
+hakari kinji = 秤金次
+
+//星
+Hoshi = 星
+hoshi = 星
+Kirara = 绮罗罗
+kirara = 绮罗罗
+Hoshi Kirara = 星绮罗罗
+hoshi kirara = 星绮罗罗
+
+//日车
+Higuruma = 日车
+higuruma = 日车
+Hiromi = 宽见
+hiromi = 宽见
+Higuruma Hiromi = 日车宽见
+higuruma hiromi = 日车宽见
+
+// ==========反派 姓/名拆分==========
+Ryomen = 两面
+ryomen = 两面
 Sukuna = 宿傩
+sukuna = 宿傩
+Ryomen Sukuna = 两面宿傩
+ryomen sukuna = 两面宿傩
+
 Kenjaku = 羂索
+kenjaku = 羂索
 Mahito = 真人
+mahito = 真人
 Jogo = 漏瑚
+jogo = 漏瑚
 Hanami = 花御
+hanami = 花御
 Dagon = 陀艮
+dagon = 陀艮
 Choso = 胀相
+choso = 胀相
 Eso = 坏相
+eso = 坏相
 Kechizu = 血涂
+kechizu = 血涂
 Uraume = 乌鹭梅
+uraume = 乌鹭梅
+Tengen = 天元
+tengen = 天元
 
-// =========次要角色==========
-Hiromi Higuruma = 日车宽见
-Kinji Hakari = 秤金次
-Kirara Hoshi = 星绮罗罗
-Riko Amanai = 天内理子
-Misato Kuroi = 黑井美里
-Masamichi Yaga = 夜蛾正道
-Gakuganji Yoshinobu = 乐岩寺嘉伸
-Kokichi Muta = 机械丸
-Junpei Yoshino = 吉野顺平
-
-// =========CP同人标签（海外AO3高频tag）==========
+// ==========CP大全｜双向、杂食、冷cp全部录入，大小写==========
+//五夏 /夏五
 Satosugu = 五夏
+satosugu = 五夏
 SatoSugu = 五夏
 Gojo/Geto = 五夏
+gojo/geto = 五夏
 Geto/Gojo = 夏五
-Goge = 五夏
-Gego = 夏五
+geto/gojo = 夏五
 Gojogeto = 五夏
+gojogeto = 五夏
 Getogojo = 夏五
-Itadori/Megumi = 虎伏
-Yuji/Megumi = 虎伏
+getogojo = 夏五
+
+//五悠
 Gojo/Yuji = 五悠
+gojo/yuji = 五悠
+Yuji/Gojo = 悠五
+yuji/gojo = 悠五
+
+//五伏
+Gojo/Megumi = 五伏
+gojo/megumi = 五伏
+Megumi/Gojo = 伏五
+megumi/gojo = 伏五
+
+//五乙
 Gojo/Yuta = 五乙
-Geto/Yuta = 杰乙
-Nanami/Gojo = 七五
-Toji/Geto = 甚杰
+gojo/yuta = 五乙
+Yuta/Gojo = 乙五
+yuta/gojo = 乙五
+
+//甚五
 Toji/Gojo = 甚五
+toji/gojo = 甚五
+Gojo/Toji = 五甚
+gojo/toji = 五甚
+
+//甚杰
+Toji/Geto = 甚杰
+toji/geto = 甚杰
+Geto/Toji = 杰甚
+geto/toji = 杰甚
+
+//杰乙
+Geto/Yuta = 杰乙
+geto/yuta = 杰乙
+Yuta/Geto = 乙杰
+yuta/geto = 乙杰
+
+//七五
+Nanami/Gojo = 七五
+nanami/gojo = 七五
+Gojo/Nanami = 五七
+gojo/nanami = 五七
+
+//虎伏
+Yuji/Megumi = 虎伏
+yuji/megumi = 虎伏
+Megumi/Yuji = 伏虎
+megumi/yuji = 伏虎
+
+//虎钉
+Yuji/Nobara = 虎钉
+yuji/nobara = 虎钉
+Nobara/Yuji = 钉虎
+nobara/yuji = 钉虎
+
+//乙真
 Yuta/Maki = 乙真
+yuta/maki = 乙真
+Maki/Yuta = 真乙
+maki/yuta = 真乙
 
-// =========咒术基础设定==========
+//真依真希
+Mai/Maki = 依真
+mai/maki = 依真
+Maki/Mai = 真依
+maki/mai = 真依
+
+//狗卷×胖达
+Toge/Panda = 卷胖
+toge/panda = 卷胖
+Panda/Toge = 胖卷
+panda/toge = 胖卷
+
+//硝子×歌姬
+Shoko/Utahime = 硝歌
+shoko/utahime = 硝歌
+Utahime/Shoko = 歌硝
+utahime/shoko = 歌硝
+
+//宿傩×虎杖
+Sukuna/Yuji = 宿虎
+sukuna/yuji = 宿虎
+Yuji/Sukuna = 虎宿
+yuji/sukuna = 虎宿
+
+//宿傩×伏黑
+Sukuna/Megumi = 宿伏
+sukuna/megumi = 宿伏
+Megumi/Sukuna = 伏宿
+megumi/sukuna = 伏宿
+
+//胀相×虎杖
+Choso/Yuji = 胀虎
+choso/yuji = 胀虎
+Yuji/Choso = 虎胀
+yuji/choso = 虎胀
+
+//七海×硝子
+Nanami/Shoko = 七硝
+nanami/shoko = 七硝
+Shoko/Nanami = 硝七
+shoko/nanami = 硝七
+
+//东堂×虎杖
+Todo/Yuji = 东虎
+todo/yuji = 东虎
+Yuji/Todo = 虎东
+yuji/todo = 虎东
+
+// ==========咒术体系｜职业｜专有名词==========
 Cursed Energy = 咒力
+cursed energy = 咒力
 Cursed Technique = 术式
+cursed technique = 术式
 Innate Technique = 生得术式
+innate technique = 生得术式
 Reversed Cursed Technique = 反转术式
+reversed cursed technique = 反转术式
 Reverse Cursed Technique = 反转术式
+reverse cursed technique = 反转术式
 Black Flash = 黑闪
+black flash = 黑闪
 Domain Expansion = 领域展开
+domain expansion = 领域展开
 Simple Domain = 简易领域
+simple domain = 简易领域
 Domain Amplification = 领域展延
-Binding Vow = 束缚誓约
-Heavenly Restriction = 天与咒缚
-Shikigami = 式神
-Cursed Spirit = 咒灵
-Cursed Tool = 咒具
-Grade 4 = 四级
-Grade 3 = 三级
-Grade 2 = 二级
-Grade 1 = 一级
-Semi‑Grade 1 = 准一级
-Special Grade = 特级
-Special Grade Cursed Object = 特级咒物
-Barrier Technique = 结界术
-Cursed Speech = 咒言
+ domain amplification = 领域展延
+ Binding Vow = 束缚誓约
+ binding vow = 束缚誓约
+ Heavenly Restriction = 天与咒缚
+ heavenly restriction = 天与咒缚
+ Shikigami = 式神
+ shikigami = 式神
+ Cursed Spirit = 咒灵
+ cursed spirit = 咒灵
+ Cursed Tool = 咒具
+ cursed tool = 咒具
+ Cursed Object = 咒物
+ cursed object = 咒物
+ Grade 4 = 四级
+ grade 4 = 四级
+ Grade 3 = 三级
+ grade 3 = 三级
+ Grade 2 = 二级
+ grade 2 = 二级
+ Grade 1 = 一级
+ grade 1 = 一级
+ Semi‑Grade 1 = 准一级
+ semi‑grade 1 = 准一级
+ Special Grade = 特级
+ special grade = 特级
+ Special Grade Cursed Object = 特级咒物
+ special grade cursed object = 特级咒物
+ Barrier Technique = 结界术
+ barrier technique = 结界术
+ Cursed Speech = 咒言
+ cursed speech = 咒言
+ Jujutsu Sorcerer = 咒术师
+ jujutsu sorcerer = 咒术师
+ Sorcerer = 咒术师
+ sorcerer = 咒术师
+ Curse User = 咒术使用者
+ curse user = 咒术使用者
+ Non‑Sorcerer = 非术师
+ non‑sorcerer = 非术师
+ // ==========招式、术式、领域名称==========
+ Limitless = 无下限术式
+ limitless = 无下限术式
+ Infinity = 无下限
+ infinity = 无下限
+ Six Eyes = 六眼
+ six eyes = 六眼
+ Blue = 苍
+ blue = 苍
+ Red = 赫
+ red = 赫
+ Purple = 茈
+ purple = 茈
+ Ten Shadows Technique = 十种影法术
+ ten shadows technique = 十种影法术
+ Chimera Shadow Garden = 嵌合暗翳庭
+ chimera shadow garden = 嵌合暗翳庭
+ Idle Death Game = 死灭回游
+ idle death game = 死灭回游
+ Idle Death Gamble = 死灭回游
+ idle death gamble = 死灭回游
+ Projection Sorcery = 术式·投影咒法
+ projection sorcery = 术式·投影咒法
+ Idle Transfiguration = 无为转变
+ idle transfiguration = 无为转变
+ Divergent Fist = 迳庭拳
+ divergent fist = 迳庭拳
+ Unlimited Void = 无量空处
+ unlimited void = 无量空处
+ Malevolent Shrine = 伏魔御厨子
+ malevolent shrine = 伏魔御厨子
+ Coffin of the Iron Mountain = 盖棺铁围山
+ coffin of the iron mountain = 盖棺铁围山
+ Horizon of the Captivating Skandha = 荡蕴平线
+ horizon of the captivating skandha = 荡蕴平线
+ Self‑Embodiment of Perfection = 自闭圆顿裹
+ self‑embodiment of perfection = 自闭圆顿裹
+ Deadly Sentencing = 诛伏赐死
+ deadly sentencing = 诛伏赐死
+ Authentic Mutual Love = 真赝相爱
+ authentic mutual love = 真赝相爱
+ Womb Profusion = 胎藏遍野
+ womb profusion = 胎藏遍野
+ // ==========日本地点｜事件==========
+ Jujutsu High = 咒术高专
+ jujutsu high = 咒术高专
+ Tokyo Jujutsu High = 东京咒术高专
+ tokyo jujutsu high = 东京咒术高专
+ Kyoto Jujutsu High = 京都咒术高专
+ kyoto jujutsu high = 京都咒术高专
+ Tokyo = 东京
+ tokyo = 东京
+ Kyoto = 京都
+ kyoto = 京都
+ Shibuya = 涩谷
+ shibuya = 涩谷
+ Shibuya Incident = 涩谷事变
+ shibuya incident = 涩谷事变
+ Sukuna's Finger = 宿傩手指
+ sukuna's finger = 宿傩手指
+ Cursed Womb: Death Paintings = 咒胎九相图
+ cursed womb: death paintings = 咒胎九相图
+ Prison Realm = 狱门疆
+ prison realm = 狱门疆
+ Goodwill Event = 京都姐妹校交流会
+ goodwill event = 京都姐妹校交流会
+ Sendai = 仙台
+ sendai = 仙台
+ Osaka = 大阪
+ osaka = 大阪
+ Shinjuku = 新宿
+ shinjuku = 新宿
+ Meguro = 目黑
+ meguro = 目黑
+ // ==========食物、日常饮食同人高频词==========
+ Onigiri = 饭团
+ onigiri = 饭团
+ Takoyaki = 章鱼小丸子
+ takoyaki = 章鱼小丸子
+ Ramen = 拉面
+ ramen = 拉面
+ Matcha = 抹茶
+ matcha = 抹茶
+ Mochi = 麻薯
+ mochi = 麻薯
+ Sushi = 寿司
+ sushi = 寿司
+ Udon = 乌冬面
+ udon = 乌冬面
+ Soba = 荞麦面
+ soba = 荞麦面
+ Taiyaki = 鲷鱼烧
+ taiyaki = 鲷鱼烧
+ Ramune = 波子汽水
+ ramune = 波子汽水
+ Yakitori = 烤鸡肉串
+ yakitori = 烤鸡肉串
+ // ==========AU同人标签 大小写变体==========
+ Modern AU = 现代AU
+ modern au = 现代AU
+ College AU = 大学AU
+ college au = 大学AU
+ No Curse AU = 无咒灵AU
+ no curse au = 无咒灵AU
+ High School AU = 高中AU
+ high school au = 高中AU
+ Canon Divergence = 原作分歧AU
+ canon divergence = 原作分歧AU
+ Soulmate AU = 灵魂伴侣AU
+ soulmate au = 灵魂伴侣AU
+ Omegaverse = ABO AU
+ omegaverse = ABO AU
+ Vampire AU = 吸血鬼AU
+ vampire au = 吸血鬼AU
+ Mob AU = 路人AU
+ mob au = 路人AU
+ Time Travel AU = 时间穿越AU
+ time travel au = 时间穿越AU
+ Post‑Canon = 原作结局后
+ post‑canon = 原作结局后
+ Pre‑Canon = 原作之前
+ pre‑canon = 原作之前
+ Fix‑It = 修复剧情
+ fix‑it = 修复剧情
+ Angst = 虐向
+ angst = 虐向
+ Fluff = 甜向
+ fluff = 甜向
+ Hurt/Comfort = 伤痛慰藉
+ hurt/comfort = 伤痛慰藉
+ Fake Relationship = 假恋爱
+ fake relationship = 假恋爱
+ Friends to Lovers = 朋友变恋人
+ friends to lovers = 朋友变恋人
+ Enemies to Lovers = 仇敌变恋人
+ enemies to lovers = 仇敌变恋人
+// ==========民间/传说类咒灵｜含专属能力｜仅咒灵词条，无人物地点==========
+Rainbow Dragon = 虹龙
+rainbow dragon = 虹龙
+//虹龙能力
+Super Durable Hide = 超高硬度鳞甲
+super durable hide = 超高硬度鳞甲
+Flight = 飞行
+flight = 飞行
+Prismatic Breath = 虹色吐息
+prismatic breath = 虹色吐息
 
-// =========人物专属术式&招式==========
-Limitless = 无下限术式
-Infinity = 无下限
-Six Eyes = 六眼
-Blue = 苍
-Red = 赫
-Purple = 茈
-Ten Shadows Technique = 十种影法术
-Chimera Shadow Garden = 嵌合暗翳庭
-Idle Death Game = 死灭回游
-Idle Death Gamble = 死灭回游
-Projection Sorcery = 术式·投影咒法
-Idle Transfiguration = 无为转变
-Divergent Fist = 迳庭拳
+Kuchisake‑Onna = 裂口女
+kuchisake‑onna = 裂口女
+//裂口女能力
+Simple Domain = 简易领域
+simple domain = 简易领域
+Scissor Projection = 巨剪投射
+scissor projection = 巨剪投射
+Forced Question Trigger = 强制问答触发
+forced question trigger = 强制问答触发
 
-// =========领域展开名称==========
-Unlimited Void = 无量空处
-Malevolent Shrine = 伏魔御厨子
-Coffin of the Iron Mountain = 盖棺铁围山
-Horizon of the Captivating Skandha = 荡蕴平线
-Self‑Embodiment of Perfection = 自闭圆顿裹
-Deadly Sentencing = 诛伏赐死
-Authentic Mutual Love = 真赝相爱
-Womb Profusion = 胎藏遍野
+Max Elephant = 极大象
+max elephant = 极大象
+//极大象能力
+Giant Trample = 巨体重踏
+giant trample = 巨体重踏
+Cursed Energy Cannon = 咒力炮
+cursed energy cannon = 咒力炮
 
-// =========地点、事件专有名词==========
-Jujutsu High = 咒术高专
-Tokyo Jujutsu High = 东京咒术高专
-Kyoto Jujutsu High = 京都咒术高专
-Shibuya Incident = 涩谷事变
-Goodwill Event = 京都姐妹校交流会
-Sukuna's Finger = 宿傩手指
-Cursed Womb: Death Paintings = 咒胎九相图
-Tengen = 天元
-Prison Realm = 狱门疆
+Nue = 鵺
+nue = 鵺
+//鵺能力
+Flight = 飞行
+flight = 飞行
+Lightning Discharge = 雷电释放
+lightning discharge = 雷电释放
 
-// =========AU同人常用标签==========
-Modern AU = 现代AU
-College AU = 大学AU
-No Curse AU = 无咒灵AU
-High School AU = 高中AU
-Canon Divergence = 原作分歧AU
-Soulmate AU = 灵魂伴侣AU
-Omegaverse = ABO AU
-Vampire AU = 吸血鬼AU
-Mob AU = 路人AU
-Time Travel AU = 时间穿越AU
-Post‑Canon = 原作结局后
-Pre‑Canon = 原作之前
-Fix‑It = 修复剧情
-Angst = 虐向
-Fluff = 甜向
+Smallpox Deity = 疱疮神
+smallpox deity = 疱疮神
+//疱疮神能力
+Disease Infliction = 疫病施加
+disease infliction = 疫病施加
+Coffin Imprisonment = 棺椁禁锢
+coffin imprisonment = 棺椁禁锢
+
+Kurourushi = 蝗祸
+kurourushi = 蝗祸
+//蝗祸能力
+Insect Swarm Manipulation = 虫群操控
+insect swarm manipulation = 虫群操控
+Cursed Sword Proficiency = 咒剑运用
+cursed sword proficiency = 咒剑运用
+
+Finger Bearer = 宿傩手指咒灵
+finger bearer = 宿傩手指咒灵
+//宿傩手指咒灵能力
+Brute Cursed Energy = 蛮力咒力
+brute cursed energy = 蛮力咒力
+
+Grasshopper Curse = 蝗虫咒灵
+grasshopper curse = 蝗虫咒灵
+//蝗虫咒灵能力
+High‑Speed Leap = 高速跳跃
+high‑speed leap = 高速跳跃
+
+Fly Heads = 飞头咒灵
+fly heads = 飞头咒灵
+//飞头咒灵能力
+Decapitation Assault = 斩首袭击
+decapitation assault = 斩首袭击
+
+Inventory Curse = 储物咒灵
+inventory curse = 储物咒灵
+//储物咒灵能力
+Object Storage = 物品收纳
+object storage = 物品收纳
+
+Tamamo‑no‑Mae Incarnate = 玉藻前化身
+tamamo‑no‑mae incarnate = 玉藻前化身
+
+Ganesha = 象头神咒灵
+ganesha = 象头神咒灵
+
+Akuro‑o Otake = 恶楼大岳
+akuro‑o otake = 恶楼大岳
